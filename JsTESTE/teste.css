@@ -1,0 +1,6 @@
+h2{
+    color: blueviolet;
+    width: 180px;
+    display: flex;
+    justify-content: center; 
+}
